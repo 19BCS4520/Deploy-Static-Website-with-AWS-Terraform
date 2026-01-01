@@ -63,5 +63,4 @@ To destroy all resources created by this project:
 terraform destroy
 ```
 
-## License
-MIT
+
